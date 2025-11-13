@@ -74,10 +74,3 @@ Day 29: Project 2 – Write a script to backup a folder daily.
 
 Day 30: Final revision → repeat commands without looking + small automation task.
 
-✅ Tips for you dear:
-
-Keep a Linux notes file with commands & examples.
-
-Every Sunday → revision of all commands learned that week.
-
-Don’t just read → type & try. Mistakes = best teacher in Linux
