@@ -1,0 +1,83 @@
+🔹 Week 1: Getting Started (Basics & Navigation)
+
+Goal: Understand Linux basics, file system, navigation.
+
+Day 1: Install Linux (Ubuntu on VM/WSL/cloud). Learn pwd, ls, cd.
+
+Day 2: Create/remove files & directories → touch, mkdir, rmdir, rm.
+
+Day 3: View files → cat, less, head, tail.
+
+Day 4: Copy & move files → cp, mv.
+
+Day 5: File search → find, locate, grep.
+
+Day 6: Explore file system hierarchy (/etc, /var, /home, /bin).
+
+Day 7: Practice challenge – create project folder → add text files → search & move them.
+
+🔹 Week 2: Permissions, Users & System Info
+
+Goal: Learn users, groups, permissions, and system basics.
+
+Day 8: File permissions → ls -l, chmod.
+
+Day 9: Ownership → chown, chgrp.
+
+Day 10: User & group management → whoami, id, groups, useradd, passwd.
+
+Day 11: Root user → sudo, su.
+
+Day 12: System info → uname -a, df -h, du -sh, uptime.
+
+Day 13: Processes → ps, top, kill, htop.
+
+Day 14: Challenge – create new user, give permissions, and kill a test process.
+
+🔹 Week 3: Packages, Services & Networking
+
+Goal: Work with software, services, and networking.
+
+Day 15: Package management → apt (Ubuntu) / yum (CentOS).
+
+Day 16: Install/uninstall a package (e.g., curl, git).
+
+Day 17: Services → systemctl start/stop/status, service.
+
+Day 18: Logs → check /var/log/, journalctl.
+
+Day 19: Networking basics → ping, ifconfig/ip addr, netstat, ss.
+
+Day 20: Download files → wget, curl.
+
+Day 21: Challenge – install Apache/Nginx, start service, check webpage in browser.
+
+🔹 Week 4: Shell Scripting & Projects
+
+Goal: Automate tasks & do mini projects.
+
+Day 22: Shell basics → variables, echo, read input.
+
+Day 23: Conditions → if-else in bash.
+
+Day 24: Loops → for, while.
+
+Day 25: Functions in bash scripts.
+
+Day 26: Redirects & pipes → >, >>, |.
+
+Day 27: Crontab → schedule a script.
+
+Day 28: Project 1 – Write a script to monitor disk usage & send alert.
+
+Day 29: Project 2 – Write a script to backup a folder daily.
+
+Day 30: Final revision → repeat commands without looking + small automation task.
+
+✅ Tips for you dear:
+
+Keep a Linux notes file with commands & examples.
+
+Every Sunday → revision of all commands learned that week.
+
+Don’t just read → type & try. Mistakes = best teacher in Linux
